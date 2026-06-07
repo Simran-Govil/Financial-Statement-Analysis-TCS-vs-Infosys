@@ -1,5 +1,12 @@
 # Financial Statement Analysis: TCS vs Infosys
 
+## Project Highlights
+
+* Conducted a comparative financial statement analysis of TCS and Infosys over FY23–FY25.
+* Evaluated profitability, liquidity, efficiency, and solvency using key financial ratios.
+* Analyzed financial trends to assess operational performance and financial health.
+* Derived business insights and investment-oriented conclusions based on financial data.
+
 ## Project Overview
 
 This project presents a comparative financial statement analysis of Tata Consultancy Services (TCS) and Infosys over a three-year period (FY23–FY25). The objective was to evaluate the financial performance, operational efficiency, liquidity position, and solvency of both companies using key financial ratios and trend analysis.
@@ -53,7 +60,7 @@ This project presents a comparative financial statement analysis of Tata Consult
 
 ### Liquidity
 
-* Both companies maintained strong liquidity positions throughout the period.
+* Both companies maintained strong liquidity positions throughout the analysis period.
 * Infosys displayed slightly stronger short-term liquidity ratios.
 
 ### Efficiency
@@ -80,8 +87,19 @@ TCS emerged as the stronger performer over the analysis period due to its superi
 
 ### Ratio Analysis
 
-![Ratio Analysis](ratio_analysis.png)
+![Ratio Analysis](screenshots/ratio_analysis.png)
 
 ### Charts
 
-![Charts](ratio_charts.png)
+![Charts Part 1](screenshots/ratio_charts.png)
+
+
+## Skills Demonstrated
+
+* Financial Statement Analysis
+* Financial Ratio Analysis
+* Comparative Company Analysis
+* Data Interpretation
+* Business Insight Generation
+* Microsoft Excel
+* Financial Reporting
