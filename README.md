@@ -85,7 +85,7 @@ TCS emerged as the stronger performer over the analysis period due to its superi
 
 ## Project Preview
 
-[Excel Workbook](./TCS vs Infosys-Financial Analysis.xlsx)
+📊 [Excel Workbook](./TCS%20vs%20Infosys%20-%20Financial%20Analysis.xlsx)
 
 ### Ratio Analysis
 
