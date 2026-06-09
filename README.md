@@ -89,7 +89,7 @@ TCS emerged as the stronger performer over the analysis period due to its superi
 
 ### Ratio Analysis
 
-![Ratio Analysis](screenshots/ratio_analysis.png)
+![Ratio Analysis](ratio_analysis.png)
 
 ### Charts
 
